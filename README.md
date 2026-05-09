@@ -36,7 +36,7 @@ Next.js API for scraping manga metadata from multiple sources.
 | Lua Comic          | `lua-comic`          | https://luacomic.org        | Active   |
 | Madarascans        | `madarascans`        | https://madarascans.com     | Active   |
 | Magus Manga        | `magus-manga`        | https://magustoon.org       | Active   |
-| MangaCloud         | `mangacloud`         | https://mangacloud.org      | Active   |
+| MangaCloud         | `mangacloud`         | https://mangacloud.org      | Unstable |
 | Mangago            | `mangago`            | https://www.mangago.zone    | Active   |
 | MangaKatana        | `mangakatana`        | https://mangakatana.com     | Active   |
 | Mangaloom          | `mangaloom`          | https://mangaloom.com       | Active   |
@@ -48,7 +48,7 @@ Next.js API for scraping manga metadata from multiple sources.
 | Manhuaplus         | `manhuaplus`         | https://manhuaplus.top      | Active   |
 | ManhuaUS           | `manhuaus`           | https://manhuaus.com        | Unstable |
 | Mgeko              | `mgeko`              | https://mgeko.cc            | Active   |
-| Mist Scans         | `mist-scans`         | https://mistscans.com       | Active   |
+| Mist Scans         | `mist-scans`         | https://mistscans.com       | Unstable |
 | NovelCool          | `novelcool`          | https://www.novelcool.com   | Active   |
 | Philia Scans       | `philia-scans`       | https://philiascans.org     | Unstable |
 | Project Suki       | `project-suki`       | https://projectsuki.com     | Active   |
@@ -59,8 +59,8 @@ Next.js API for scraping manga metadata from multiple sources.
 | Ritharscans        | `ritharscans`        | https://ritharscans.com     | Active   |
 | Rizz Fables        | `rizz-fables`        | https://rizzfables.com      | Active   |
 | Rokari Comics      | `rokari-comics`      | https://rokaricomics.com    | Active   |
-| Scythe Scans       | `scythe-scans`       | https://scythescans.com     | Active   |
-| Spider Scans       | `spider-scans`       | https://spiderscans.xyz     | Active   |
+| Scythe Scans       | `scythe-scans`       | https://scythescans.com     | Unstable |
+| Spider Scans       | `spider-scans`       | https://spiderscans.xyz     | Unstable |
 | Stonescape         | `stonescape`         | https://stonescape.xyz      | Active   |
 | Temple Scan        | `temple-scan`        | https://templetoons.com     | Active   |
 | Thunderscans       | `thunderscans`       | https://en-thunderscans.com | Active   |
