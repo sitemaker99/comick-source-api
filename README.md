@@ -19,7 +19,7 @@ Next.js API for scraping manga metadata from multiple sources.
 | Elf Toon           | `elf-toon`           | https://elftoon.com         | Active   |
 | Eva Scans          | `eva-scans`          | https://evascans.org        | Active   |
 | Falcon Scans       | `falcon-scans`       | https://falconscans.com     | Shutdown |
-| Firescans          | `firescans`          | https://firescans.xyz       | Active   |
+| Firescans          | `firescans`          | https://firescans.xyz       | Unstable |
 | FlameComics        | `flamecomics`        | https://flamecomics.xyz     | Active   |
 | Galaxy Degen Scans | `galaxy-degen-scans` | https://gdscans.com         | Active   |
 | Greed Scans        | `greed-scans`        | https://greedscans.com      | Active   |
@@ -60,7 +60,7 @@ Next.js API for scraping manga metadata from multiple sources.
 | Rizz Fables        | `rizz-fables`        | https://rizzfables.com      | Active   |
 | Rokari Comics      | `rokari-comics`      | https://rokaricomics.com    | Active   |
 | Scythe Scans       | `scythe-scans`       | https://scythescans.com     | Active   |
-| Spider Scans       | `spider-scans`       | https://spiderscans.xyz     | Active   |
+| Spider Scans       | `spider-scans`       | https://spiderscans.xyz     | Unstable |
 | Stonescape         | `stonescape`         | https://stonescape.xyz      | Active   |
 | Temple Scan        | `temple-scan`        | https://templetoons.com     | Active   |
 | Thunderscans       | `thunderscans`       | https://en-thunderscans.com | Active   |
