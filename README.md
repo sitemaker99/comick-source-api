@@ -11,7 +11,7 @@ Next.js API for scraping manga metadata from multiple sources.
 | Asmodeus Scans     | `asmodeus-scans`     | https://asmotoon.com        | Active   |
 | AsuraScan          | `asurascan`          | https://asurascans.com      | Active   |
 | Athrea Scans       | `athrea-scans`       | https://athreascans.com     | Active   |
-| AtsuMoe            | `atsumoe`            | https://atsumoe.com         | Active   |
+| AtsuMoe            | `atsumoe`            | https://atsumoe.com         | Unstable |
 | Bato               | `bato`               | https://bato.to             | Shutdown |
 | Comix              | `comix`              | https://comix.to            | Unstable |
 | DemonicScans       | `demonicscans`       | https://demonicscans.org    | Active   |
