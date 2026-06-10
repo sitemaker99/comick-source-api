@@ -10,7 +10,7 @@ Next.js API for scraping manga metadata from multiple sources.
 | Arya Scans         | `arya-scans`         | https://brainrotcomics.com  | Active   |
 | Asmodeus Scans     | `asmodeus-scans`     | https://asmotoon.com        | Active   |
 | AsuraScan          | `asurascan`          | https://asurascans.com      | Active   |
-| Athrea Scans       | `athrea-scans`       | https://athreascans.com     | Unstable |
+| Athrea Scans       | `athrea-scans`       | https://athreascans.com     | Active   |
 | AtsuMoe            | `atsumoe`            | https://atsumoe.com         | Active   |
 | Bato               | `bato`               | https://bato.to             | Shutdown |
 | Comix              | `comix`              | https://comix.to            | Unstable |
@@ -48,7 +48,7 @@ Next.js API for scraping manga metadata from multiple sources.
 | Manhuaplus         | `manhuaplus`         | https://manhuaplus.top      | Active   |
 | ManhuaUS           | `manhuaus`           | https://manhuaus.com        | Unstable |
 | Mgeko              | `mgeko`              | https://mgeko.cc            | Active   |
-| Mist Scans         | `mist-scans`         | https://mistscans.com       | Active   |
+| Mist Scans         | `mist-scans`         | https://mistscans.com       | Unstable |
 | NovelCool          | `novelcool`          | https://www.novelcool.com   | Active   |
 | Philia Scans       | `philia-scans`       | https://philiascans.org     | Unstable |
 | Project Suki       | `project-suki`       | https://projectsuki.com     | Active   |
