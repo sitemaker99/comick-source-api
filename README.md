@@ -23,7 +23,7 @@ Next.js API for scraping manga metadata from multiple sources.
 | FlameComics        | `flamecomics`        | https://flamecomics.xyz     | Active   |
 | Galaxy Degen Scans | `galaxy-degen-scans` | https://gdscans.com         | Active   |
 | Greed Scans        | `greed-scans`        | https://greedscans.com      | Active   |
-| Hades Scans        | `hades-scans`        | https://hadesscans.com      | Unstable |
+| Hades Scans        | `hades-scans`        | https://hadesscans.com      | Active   |
 | KaliScan           | `kaliscan`           | https://kaliscan.com        | Active   |
 | KappaBeast         | `kappabeast`         | https://kappabeast.com      | Unstable |
 | KDT Scans          | `kdt-scans`          | https://www.silentquill.net | Unstable |
@@ -63,7 +63,7 @@ Next.js API for scraping manga metadata from multiple sources.
 | Spider Scans       | `spider-scans`       | https://spiderscans.xyz     | Active   |
 | Stonescape         | `stonescape`         | https://stonescape.xyz      | Active   |
 | Temple Scan        | `temple-scan`        | https://templetoons.com     | Active   |
-| Thunderscans       | `thunderscans`       | https://en-thunderscans.com | Unstable |
+| Thunderscans       | `thunderscans`       | https://en-thunderscans.com | Active   |
 | TopManhua          | `topmanhua`          | https://manhuatop.org       | Active   |
 | UTOON              | `utoon`              | https://utoon.net           | Active   |
 | Violetscans        | `violetscans`        | https://violetscans.org     | Active   |
