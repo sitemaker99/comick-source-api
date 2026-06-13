@@ -26,7 +26,7 @@ Next.js API for scraping manga metadata from multiple sources.
 | Hades Scans        | `hades-scans`        | https://hadesscans.com      | Active   |
 | KaliScan           | `kaliscan`           | https://kaliscan.com        | Active   |
 | KappaBeast         | `kappabeast`         | https://kappabeast.com      | Unstable |
-| KDT Scans          | `kdt-scans`          | https://www.silentquill.net | Unstable |
+| KDT Scans          | `kdt-scans`          | https://www.silentquill.net | Active   |
 | Kenscans           | `kenscans`           | https://kencomics.com       | Active   |
 | KS Group           | `ks-group-scans`     | https://ksgroupscans.com    | Active   |
 | KuraManga          | `kuramanga`          | https://kuramanga.com       | Active   |
@@ -69,9 +69,9 @@ Next.js API for scraping manga metadata from multiple sources.
 | Violetscans        | `violetscans`        | https://violetscans.org     | Active   |
 | Vortex Scans       | `vortex-scans`       | https://vortexscans.org     | Active   |
 | WEBTOON            | `webtoon`            | https://www.webtoons.com    | Active   |
-| WeebCentral        | `weebcentral`        | https://weebcentral.com     | Active   |
+| WeebCentral        | `weebcentral`        | https://weebcentral.com     | Unstable |
 | Weebdex            | `weebdex`            | https://weebdex.org         | Shutdown |
-| WitchScans         | `witchscans`         | https://witchscans.com      | Unstable |
+| WitchScans         | `witchscans`         | https://witchscans.com      | Active   |
 | Writers' Scans     | `writers-scans`      | https://writerscans.com     | Active   |
 | Yaksha Comics      | `yaksha-comics`      | https://yakshacomics.com    | Active   |
 | Yaksha Scans       | `yaksha-scans`       | https://yakshascans.com     | Active   |
