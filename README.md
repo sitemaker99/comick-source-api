@@ -71,7 +71,7 @@ Next.js API for scraping manga metadata from multiple sources.
 | WEBTOON            | `webtoon`            | https://www.webtoons.com    | Active   |
 | WeebCentral        | `weebcentral`        | https://weebcentral.com     | Active   |
 | Weebdex            | `weebdex`            | https://weebdex.org         | Shutdown |
-| WitchScans         | `witchscans`         | https://witchscans.com      | Active   |
+| WitchScans         | `witchscans`         | https://witchscans.com      | Unstable |
 | Writers' Scans     | `writers-scans`      | https://writerscans.com     | Active   |
 | Yaksha Comics      | `yaksha-comics`      | https://yakshacomics.com    | Active   |
 | Yaksha Scans       | `yaksha-scans`       | https://yakshascans.com     | Active   |
